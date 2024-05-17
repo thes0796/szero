@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/szero/static/css/main.4db16116.css",
+    "main.js": "/szero/static/js/main.cd14dc5f.js",
+    "static/media/logo.svg": "/szero/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/szero/index.html",
+    "main.4db16116.css.map": "/szero/static/css/main.4db16116.css.map",
+    "main.cd14dc5f.js.map": "/szero/static/js/main.cd14dc5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4db16116.css",
+    "static/js/main.cd14dc5f.js"
+  ]
+}
